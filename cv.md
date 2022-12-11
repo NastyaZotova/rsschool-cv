@@ -22,4 +22,15 @@
    return a * b} 
    ```
 
+6. **StressLess**
+   My first CV:
+
+7. **Education**
+
+8. **Languages**
+   * Russian
+   * Belarussian
+   * English B2
+
+![Avatar]("C:\Users\PC\Desktop\RS\rsschool-cv\avatar.jpg")
 
