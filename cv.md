@@ -8,3 +8,11 @@
    * Tel +375292777515
    * NastyaZotova(@30ml)  (Discord)
    * Location: Minsk, Belarus
+
+	3. **About me:**
+  I am fine
+
+4. **Skills**
+   * Version control: Git (basic)
+	* Editors: VSCode
+
