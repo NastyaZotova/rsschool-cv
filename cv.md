@@ -16,3 +16,10 @@
    * Version control: Git (basic)
 	* Editors: VSCode
 
+5. **Code example**
+   ``` 
+   function multiply(a, b) {
+   return a * b} 
+   ```
+
+
