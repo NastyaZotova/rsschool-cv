@@ -1,0 +1,36 @@
+# rsschool-cv
+********
+1. **Nastya Zotova**
+2. **My contacts:**
+   * tridcatka30@gmail.com
+   * @begtrustsoy  (telegram)
+   * [NastyaZotova](https://github.com/NastyaZotova "GitHab")  (GitHab)
+   * Tel +375292777515
+   * NastyaZotova(@30ml)  (Discord)
+   * Location: Minsk, Belarus
+
+	3. **About me:**
+  I am fine
+
+4. **Skills**
+   * Version control: Git (basic)
+	* Editors: VSCode
+
+5. **Code example**
+   ``` 
+   function multiply(a, b) {
+   return a * b} 
+   ```
+
+6. **StressLess**
+   My first CV:
+
+7. **Education**
+
+8. **Languages**
+   * Russian
+   * Belarussian
+   * English B2
+
+![Avatar]("C:\Users\PC\Desktop\RS\rsschool-cv\avatar.jpg")
+
